@@ -1,0 +1,2 @@
+# First Prompt to Lama
+"I have initialized the Memory Bank. According to TASKS.md, we are in Session 1. Please provide the commands to initialize the Go module and create the first PostgreSQL migration file for the users table."

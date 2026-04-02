@@ -1,0 +1,11 @@
+name: Local Config
+version: 1.0.0
+schema: v1
+models:
+  - name: Llama 3.2
+    provider: ollama
+    model: llama3.2
+    roles:
+      - chat
+      - edit
+      - apply
